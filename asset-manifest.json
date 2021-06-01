@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PelisReact/static/css/main.ca7b92ba.chunk.css",
+    "main.js": "/PelisReact/static/js/main.bf3be923.chunk.js",
+    "main.js.map": "/PelisReact/static/js/main.bf3be923.chunk.js.map",
+    "runtime-main.js": "/PelisReact/static/js/runtime-main.cc913e4a.js",
+    "runtime-main.js.map": "/PelisReact/static/js/runtime-main.cc913e4a.js.map",
+    "static/js/2.80833554.chunk.js": "/PelisReact/static/js/2.80833554.chunk.js",
+    "static/js/2.80833554.chunk.js.map": "/PelisReact/static/js/2.80833554.chunk.js.map",
+    "static/js/3.a087280b.chunk.js": "/PelisReact/static/js/3.a087280b.chunk.js",
+    "static/js/3.a087280b.chunk.js.map": "/PelisReact/static/js/3.a087280b.chunk.js.map",
+    "index.html": "/PelisReact/index.html",
+    "static/css/main.ca7b92ba.chunk.css.map": "/PelisReact/static/css/main.ca7b92ba.chunk.css.map",
+    "static/js/2.80833554.chunk.js.LICENSE.txt": "/PelisReact/static/js/2.80833554.chunk.js.LICENSE.txt",
+    "static/media/Action.51de6975.svg": "/PelisReact/static/media/Action.51de6975.svg",
+    "static/media/BdMovie.da3f379f.svg": "/PelisReact/static/media/BdMovie.da3f379f.svg",
+    "static/media/clock.a600b0f7.svg": "/PelisReact/static/media/clock.a600b0f7.svg",
+    "static/media/github.b3ba8c68.svg": "/PelisReact/static/media/github.b3ba8c68.svg",
+    "static/media/gmail.ce0e4812.svg": "/PelisReact/static/media/gmail.ce0e4812.svg",
+    "static/media/hamburger.1ba0726b.svg": "/PelisReact/static/media/hamburger.1ba0726b.svg",
+    "static/media/like.7a1c37ea.svg": "/PelisReact/static/media/like.7a1c37ea.svg",
+    "static/media/linkedin.0e936ad5.svg": "/PelisReact/static/media/linkedin.0e936ad5.svg",
+    "static/media/money.ccecff08.svg": "/PelisReact/static/media/money.ccecff08.svg",
+    "static/media/opinion.176f3d72.svg": "/PelisReact/static/media/opinion.176f3d72.svg",
+    "static/media/rocking.f9fbfdcc.svg": "/PelisReact/static/media/rocking.f9fbfdcc.svg",
+    "static/media/star.09804ba3.svg": "/PelisReact/static/media/star.09804ba3.svg",
+    "static/media/theater.032ae13a.svg": "/PelisReact/static/media/theater.032ae13a.svg",
+    "static/media/ufo.799efc5f.svg": "/PelisReact/static/media/ufo.799efc5f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc913e4a.js",
+    "static/js/2.80833554.chunk.js",
+    "static/css/main.ca7b92ba.chunk.css",
+    "static/js/main.bf3be923.chunk.js"
+  ]
+}
